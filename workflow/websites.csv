@@ -1,3 +1,4 @@
+m: Max for Live,http://www.maxforlive.com:&q={query}
 g: GitHub,https://GitHub.com/search?utf8=✓&q={query}&type=
 Google Dataset Search,https://toolbox.google.com/datasetsearch/search?query={query}
 Pinboard,https://pinboard.in/search/?query={query}&all=Search+All
